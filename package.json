@@ -1,0 +1,23 @@
+{
+  "name": "cars-game",
+  "version": "1.0.0",
+  "description": "simple car game that uses collisions and events",
+  "main": "index.js",
+  "homepage": "https://amart31.github.io/cars-game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amart31/cars-game.git"
+  },
+  "author": "Andy Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amart31/cars-game/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
